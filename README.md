@@ -19,4 +19,4 @@ To install the Perl-based Fungal Classifier, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/fungal-classifier.git
+   git clone https://github.com/matthewchang0/FungalGenusClassifier.git
